@@ -33,8 +33,8 @@ A obra está uma bagunça, mas o canteiro nunca parou.
 
 ### 🔧 Enquanto isso
 
-Se você veio procurar alguma coisa específica, provavelmente ela ainda existe —
-só está dentro de uma caixa, embaixo de outra caixa.
+Se você veio procurar alguma coisa específica, provavelmente ela ainda existe,
+só está dentro de uma caixa, embaixo de outra caixa...
 
 Pode voltar depois. Ou não, eu não mando em você.
 
