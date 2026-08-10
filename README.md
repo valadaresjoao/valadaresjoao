@@ -12,19 +12,11 @@ A obra está uma bagunça, mas o canteiro nunca parou.
 
 <br />
 
-### 📐 Placa da obra
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=valadaresjoao&locale=pt_BR&background=00000000&border=30363D&stroke=30363D&ring=F5A623&fire=F5A623&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=valadaresjoao&locale=pt_BR&background=00000000&border=D0D7DE&stroke=D0D7DE&ring=F5A623&fire=F5A623&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=57606A&sideLabels=57606A&dates=8C959F&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=valadaresjoao&locale=pt_BR" alt="Contribuições totais, sequência atual e maior sequência" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valadaresjoao/valadaresjoao/main/contrib-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valadaresjoao/valadaresjoao/main/contrib-light.svg" />
+  <img src="https://raw.githubusercontent.com/valadaresjoao/valadaresjoao/main/contrib-light.svg" alt="Contribuições por semana, de 2022 a 2026" width="100%" />
 </picture>
-
-<br /><br />
-
-### 📈 Movimento no canteiro
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=valadaresjoao&bg_color=00000000&color=8B949E&title_color=F5A623&line=F5A623&point=8A63D2&area=true&area_color=F5A623&hide_border=true&custom_title=Atividade%20recente" alt="Gráfico de atividade recente" />
 
 </div>
 
