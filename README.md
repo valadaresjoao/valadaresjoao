@@ -15,7 +15,7 @@ A obra está uma bagunça, mas o canteiro nunca parou.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valadaresjoao/valadaresjoao/main/contrib-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valadaresjoao/valadaresjoao/main/contrib-light.svg" />
-  <img src="https://raw.githubusercontent.com/valadaresjoao/valadaresjoao/main/contrib-light.svg" alt="Contribuições por semana, de 2022 a 2026" width="100%" />
+  <img src="https://raw.githubusercontent.com/valadaresjoao/valadaresjoao/main/contrib-light.svg" alt="Atividade dos últimos 5 anos — uma contribuição por semana, de 2022 a 2026" width="100%" />
 </picture>
 
 </div>
